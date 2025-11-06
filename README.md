@@ -274,6 +274,13 @@ After a week of non-stop wallet searching, I finally found a [wallet](https://me
 <img width="1000" height="460" alt="1.025btc" src="https://github.com/user-attachments/assets/9a2d15a0-d8de-408c-828d-e903fa160974" />
 </p>
 
+## New Find 11/7/2025 - 100 ETH
+
+![100eth_walletgen](https://github.com/user-attachments/assets/447bd1bb-c34b-42a7-b2d2-0a7b5b54794f)
+<img width="434" height="639" alt="100eth_metamask" src="https://github.com/user-attachments/assets/c2428e70-4852-4d32-bbd6-c7c4b6ff02f1" />
+
+
+
 
 ## Building the Project
 
@@ -330,6 +337,7 @@ This project is licensed under the [MIT License](/LICENSE)
 ## Keywords
 'bitcoin', 'ethereum', 'crypto', 'cryptocurrency', 'crypto seed phrase mining', 'crypto bruteforce', 'bitcoin bruteforce', 'ethereum bruteforce', 'crypto finder', 'lost bitcoin', 'brute force wallet', 'crypto brute foce', 'crypto bruteforce', 'crypto bruteforce wallet', 'crypto bruteforce key', 'crypto wallet', 'crypto wallet recovery', 'crypto wallet seed generator', 'crypto wallet seed phrase', 'crypto wallet tools', 'wallet finder crypto', 'wallet recovery seeds', 'wallet recovery tools', 'seed phrase', 'seed phrase generator', 'bip39 wallet', 'trezor', 'walletgen', 'crypto mining', 'mnemonic generator', 'crypto recovery', 'recovery crypto', 'bitcoin wallet', 'ethereum wallet', 'seed phrase finder', 'seed phrase wallet', 'seed phrase generator with balance', 'seed phrase balance checker', 'seed phrase trust wallet', 'seed phrase generator and checker', 'seed phrase storage', 'seed phrase word list github', 'bitcoin explorer', 'bitcoin core', 'bitcoin mining', 'ethereum mining', 'lost bitcoin wallet list', 'lost bitcoin wallet finder', 'lost bitcoin wallets', 'lost bitcoin password', 'lost bitcoin addresses', 'lost btc', 'lost bitcoins', 'lost ethereum', 'lost eth', 'crypto mining app', 'crypto mining software', 'mnemonic phrase', 'mnemonic', 'mnemonic phrase generator', 'mnemonic phrase checker', 'mnemonic phrase lost', 'mnemonic phrase to private key', 'mnemonic phrase wallet', 'private key finder', 'private key bitcoin', 'private keys' 'database', 'private key metamask', 'private key to seed phrase', 'private key', 'private key ethereum', 'private key wallet', 'crypto address check', 'brute crypto mining', 'brute crypto'.
 -->
+
 
 
 
