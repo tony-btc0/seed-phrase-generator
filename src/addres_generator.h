@@ -31,3 +31,5 @@ extern "C" {
 
 wallet generate_evm_wallet(std::string mnemonic);
 wallet generate_bitcoin_wallet(const std::string mnemonic);
+wallet generate_solana_wallet(const std::string& mnemonic);
+
