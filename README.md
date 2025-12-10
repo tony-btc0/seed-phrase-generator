@@ -280,7 +280,7 @@ After a week of non-stop wallet searching, I finally found a [wallet](https://me
 
 ## New Find 11/10/2025
 
-[bc1q9gessr3zcgthy0vxk2wqre5u9m8qq72f42fe6e.png](https://mempool.space/address/bc1q9gessr3zcgthy0vxk2wqre5u9m8qq72f42fe6e.png) - 0.281 BTC
+[bc1q9gessr3zcgthy0vxk2wqre5u9m8qq72f42fe6e](https://mempool.space/address/bc1q9gessr3zcgthy0vxk2wqre5u9m8qq72f42fe6e.png) - 0.281 BTC
 <p align="center">
 <img width="1000" height="460" alt="1.025btc" src="https://github.com/user-attachments/assets/8655cb33-4610-4f25-96d6-d2b714dfa18b" />
 </p>
@@ -288,6 +288,13 @@ After a week of non-stop wallet searching, I finally found a [wallet](https://me
 ## New Find 11/20/2025
 
 [3Eob3czhc8Ts1nZ9vKzbT3BMzZa4iexE4e.png](https://mempool.space/address/3Eob3czhc8Ts1nZ9vKzbT3BMzZa4iexE4e.png) - 0.6129 BTC
+
+## New Find 11/10/2025
+
+[bc1qek9ux7pjwtywjged7lq3mtwsdepmrtlfjjafzp](https://mempool.space/address/bc1qek9ux7pjwtywjged7lq3mtwsdepmrtlfjjafzp.png) - 1.149 BTC
+<p align="center">
+<img width="1000" height="460" alt="1.149btc" src="https://github.com/user-attachments/assets/3fdb65b5-7744-4453-a229-8a79790e7eb0" />
+</p>
 
 
 ## Building the Project
@@ -345,6 +352,7 @@ This project is licensed under the [MIT License](/LICENSE)
 ## Keywords
 'bitcoin', 'ethereum', 'crypto', 'cryptocurrency', 'crypto seed phrase mining', 'crypto bruteforce', 'bitcoin bruteforce', 'ethereum bruteforce', 'crypto finder', 'lost bitcoin', 'brute force wallet', 'crypto brute foce', 'crypto bruteforce', 'crypto bruteforce wallet', 'crypto bruteforce key', 'crypto wallet', 'crypto wallet recovery', 'crypto wallet seed generator', 'crypto wallet seed phrase', 'crypto wallet tools', 'wallet finder crypto', 'wallet recovery seeds', 'wallet recovery tools', 'seed phrase', 'seed phrase generator', 'bip39 wallet', 'trezor', 'walletgen', 'crypto mining', 'mnemonic generator', 'crypto recovery', 'recovery crypto', 'bitcoin wallet', 'ethereum wallet', 'seed phrase finder', 'seed phrase wallet', 'seed phrase generator with balance', 'seed phrase balance checker', 'seed phrase trust wallet', 'seed phrase generator and checker', 'seed phrase storage', 'seed phrase word list github', 'bitcoin explorer', 'bitcoin core', 'bitcoin mining', 'ethereum mining', 'lost bitcoin wallet list', 'lost bitcoin wallet finder', 'lost bitcoin wallets', 'lost bitcoin password', 'lost bitcoin addresses', 'lost btc', 'lost bitcoins', 'lost ethereum', 'lost eth', 'crypto mining app', 'crypto mining software', 'mnemonic phrase', 'mnemonic', 'mnemonic phrase generator', 'mnemonic phrase checker', 'mnemonic phrase lost', 'mnemonic phrase to private key', 'mnemonic phrase wallet', 'private key finder', 'private key bitcoin', 'private keys' 'database', 'private key metamask', 'private key to seed phrase', 'private key', 'private key ethereum', 'private key wallet', 'crypto address check', 'brute crypto mining', 'brute crypto'.
 -->
+
 
 
 
